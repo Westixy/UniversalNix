@@ -4,7 +4,7 @@ Nix is were you can find almost any package you want. But you need nix. Well in 
 (containing all dependencies, so no clash with others dependencies, but might be heavy). Wouldn't it be nice to have a repository for
 deb and rpm that has this power from a simple `apt install uninix-<whatever>` ?  let's build it!
 
-NB: this project will start the 1st of July 2024 for the [Backdrop Build event](backdropbuild.com)
+NB: this project will start the 1st of July 2024 for the [Backdrop Build event](https://backdropbuild.com)
 
 ## Interface expected (from simple to crazy time consuming)
 
